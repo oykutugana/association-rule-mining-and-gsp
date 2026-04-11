@@ -1,0 +1,11 @@
+venv/
+.idea/
+__pycache__/
+*.pyc
+.env
+data/*.csv
+.DS_Store
+data/.DS_Store
+excel_files/.DS_Store
+echo "*.rar" >> .gitignore
+echo "*.zip" >> .gitignore
