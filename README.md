@@ -1,7 +1,7 @@
 # YZM2022: Data Mining — Homework 1
 **Association Rule Mining and Sequential Pattern Analysis**
 ---
-> **Dataset Link:** **[homework 1.rar](https://drive.google.com/file/d/1IS8RVJv8a_CCg6Osz_sCNPnV-iw-t0Gf/view?usp=share_link)
+> **Dataset Link:** **[homework 1.rar](https://drive.google.com/file/d/1IS8RVJv8a_CCg6Osz_sCNPnV-iw-t0Gf/view?usp=share_link)**
 
 > **Project Link:** **[github.com/oykutugana/association-rule-mining-and-gsp](https://github.com/oykutugana/association-rule-mining-and-gsp)**
 
